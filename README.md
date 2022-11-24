@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jatin mourya</h1>
-<h3 align="center">A Highly Motivated And Hardworking Individual Looking For Responsible Role In Reputated Organizationfrom India</h3>
+<h3 align="center">A Highly Motivated And Hardworking Individual Looking For Responsible Role In Reputated Organization</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinmourya07798&label=Profile%20views&color=0e75b6&style=flat" alt="jatinmourya07798" /> </p>
 
