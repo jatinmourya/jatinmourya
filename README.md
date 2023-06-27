@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **jatinmourya07798@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/jatinmourya/my-certificates/blob/main/jatin mourya resume.pdf](https://github.com/jatinmourya/my-certificates/blob/main/Jatin-Mourya-Resume.pdf)
+- 📄 Know about my experiences [https://github.com/jatinmourya/my-certificates/blob/main/jatin mourya resume.pdf](https://github.com/jatinmourya/my-certificates/blob/main/jatin' 'mourya' 'resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
